@@ -23,6 +23,10 @@
    npm i twitter-api-v2
    npm i node-cron
    npm i dotenv
+   
+   #vercel 
+   vercel login
+   vercel deploy
    ```
 
 4. Ejecute el servidor lanzar el tweet:
