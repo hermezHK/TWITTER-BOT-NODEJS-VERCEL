@@ -7,7 +7,7 @@
 2. Es necesario crear tu archivo .env:
 
    access
-   
+
    llaves y keys de twitter.
 
    ```bash
@@ -65,7 +65,7 @@
         Por ejemplo, para ejecutar una tarea todos los días a las 9:30 AM, podrías utilizar el siguiente código:
 
    ```bash
-   cron.schedule('10 8 * * *', main);
+   cron.schedule('30 9 * * *', main);
    ```
  
     
