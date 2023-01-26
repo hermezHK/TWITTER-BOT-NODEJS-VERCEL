@@ -25,4 +25,4 @@ const main = async () => {
     });
 };
 
-cron.schedule('15 8 * * *', main);
+cron.schedule('15 20 * * *', main);
